@@ -4,13 +4,13 @@ A brief description of your project.
 
 ## Live Demo
 
-[View Live Project](https://your-live-link-here.com)
+[View Live Project](https://travel-planner-app-one.vercel.app/)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-bolt.git
+   git clone https://github.com/Amitava-Roy/travel-planner-app.git
    ```
 2. Navigate to the project directory:
    ```bash
